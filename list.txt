@@ -494,6 +494,7 @@ read.bi
 readthis.ca
 reallytinyurl.com
 rebrand.ly
+rebrandlydomain.com
 redir.ec
 redir.fr
 redirects.ca
