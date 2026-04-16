@@ -137,7 +137,7 @@ cf2.me
 cf6.co
 cf.ly
 chilp.it
-chl.li,
+chl.li
 chzb.gr
 cjb.net
 cl.lk
@@ -366,7 +366,7 @@ lnk.sk
 lnkd.in
 lnked.in
 lnki.nl
-lnkiy.com,
+lnkiy.com
 lnks.fr
 lnkurl.com
 lnky.fr
@@ -546,6 +546,7 @@ shorte.st
 ShortLinks.co.uk
 shortna.me
 shorturl.com
+shorturl.ly
 shoturl.us
 shout.to
 show.my
@@ -662,6 +663,7 @@ trunc.it
 turo.us
 tweetburner.com
 twet.fr
+twtr.to
 twhub.com
 twi.im
 twirl.at
@@ -820,6 +822,7 @@ zkr.cz
 zkrat.me
 zkrt.cz
 zoodl.com
+zoomto.me
 zpag.es
 zSMS.net
 zti.me
