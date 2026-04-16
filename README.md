@@ -7,7 +7,7 @@ A curated list of URL shortener services, link management platforms, self-hosted
 
 This repo combines two things:
 
-- A human-friendly awesome list of notable URL shortener tools and services.
+- A awesome list of popular URL shortener tools and services.
 - A larger raw dataset of 950+ shortener domains in [list.txt](./list.txt) for link expansion, redirect analysis, and shortener research.
 
 ## URL Shortener Services
