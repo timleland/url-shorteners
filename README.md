@@ -24,6 +24,7 @@ This repo combines two things:
 - [Kutt](https://kutt.it) - Open-source URL shortener with both hosted and self-hosted options.
 - [LinkSplit](https://linksplit.io/url-shortener) - Shorten links and split traffic across multiple destinations.
 - [lstu](https://lstu.fr) - Simple open-source shortener with an official public instance.
+- [mnlc.es](https://mnlc.es) — Spanish ultra-short URL shortener with a built-in link-in-bio profile, free plan available...
 - [Ow.ly](https://www.hootsuite.com/pages/owly) - Hootsuite's URL shortener for social media publishing workflows.
 - [Rebrandly](https://www.rebrandly.com) - Branded link platform focused on custom domains and campaign tracking.
 - [Short.io](https://short.io) - Custom-domain URL shortener with routing rules, analytics, and team features.
